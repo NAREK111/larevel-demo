@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user id="13">
+        <user_id>13</user_id>
+        <firstName>narek</firstName>
+        <lastName>khachaturyan</lastName>
+        <gender>female</gender>
+        <email>narek@mail.ru</email>
+        <password>1</password>
+    </user>
+    <user id="14">
+        <user_id>14</user_id>
+        <firstName>1</firstName>
+        <lastName>1</lastName>
+        <gender>male</gender>
+        <email>narek@mail.ru</email>
+        <password>1</password>
+    </user>
+    <user id="15">
+        <user_id>15</user_id>
+        <firstName>1</firstName>
+        <lastName>1</lastName>
+        <gender>male</gender>
+        <email>14@mail.ru</email>
+        <password>1</password>
+    </user>
+    <user id="16">
+        <user_id>16</user_id>
+        <firstName>1</firstName>
+        <lastName>1</lastName>
+        <gender>male</gender>
+        <email>15@mail.ru</email>
+        <password>1</password>
+    </user>
+</users>

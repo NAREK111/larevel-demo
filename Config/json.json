@@ -1,0 +1,117 @@
+[
+  {
+    "firstName": "1",
+    "lastName": "1",
+    "gender": "female",
+    "email": "3@mail.ru",
+    "password": "1",
+    "user_id": 3
+  },
+  {
+    "firstName": "narek",
+    "lastName": "khachaturyan",
+    "gender": "female",
+    "email": "10@mail.ru",
+    "password": "1",
+    "user_id": 1
+  },
+  {
+    "user_id": 2,
+    "name": null,
+    "lng": null,
+    "lat": null,
+    "address": null
+  },
+  {
+    "user_id": 3,
+    "name": null,
+    "lng": null,
+    "lat": null,
+    "address": null
+  },
+  {
+    "user_id": 4,
+    "name": null,
+    "lng": null,
+    "lat": null,
+    "address": null
+  },
+  {
+    "user_id": 5,
+    "name": null,
+    "lng": null,
+    "lat": null,
+    "address": null
+  },
+  {
+    "firstName": "1",
+    "lastName": "1",
+    "gender": "female",
+    "email": "11@mail.ru",
+    "password": "1",
+    "user_id": 6
+  },
+  {
+    "firstName": "1",
+    "lastName": "1",
+    "gender": "female",
+    "email": "12@mail.ru",
+    "password": "1",
+    "user_id": 7
+  },
+  {
+    "user_id": 8,
+    "name": null,
+    "lng": null,
+    "lat": null,
+    "address": null
+  },
+  {
+    "firstName": "1",
+    "lastName": "1",
+    "gender": "male",
+    "email": "narek@mail.ru",
+    "password": "1",
+    "user_id": 9
+  },
+  {
+    "firstName": "1",
+    "lastName": "1",
+    "gender": "male",
+    "email": "14@mail.ru",
+    "password": "1",
+    "user_id": 10
+  },
+  {
+    "firstName": "1",
+    "lastName": "1",
+    "gender": "male",
+    "email": "15@mail.ru",
+    "password": "1",
+    "user_id": 11
+  },
+  {
+    "firstName": "1",
+    "lastName": "1",
+    "gender": "male",
+    "email": "16@mail.ru",
+    "password": "1",
+    "user_id": 12
+  },
+  {
+    "firstName": "1",
+    "lastName": "1",
+    "gender": "male",
+    "email": "160@mail.ru",
+    "password": "1",
+    "user_id": 13
+  },
+  {
+    "firstName": "1",
+    "lastName": "sdfsdf",
+    "gender": "female",
+    "email": "100@mail.ru",
+    "password": "1",
+    "user_id": 14
+  }
+]
